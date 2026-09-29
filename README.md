@@ -12,7 +12,7 @@ These small browser-based apps demonstrate the kinds of business workflows I bui
 
 | Project | What it does | Engineering detail |
 | --- | --- | --- |
-| [SlotKita](https://slotkita-20260928.pages.dev/) | Finds available salon appointment slots and exports calendar holds | Scheduling logic separated from the UI; handles opening hours, service durations and buffers |
+| [SlotKita](https://slotkita-20260928.pages.dev/) · [Source](https://github.com/Syn857/slotkita) | Finds available salon appointment slots and exports calendar holds | DOM-free scheduling engine with 34 passing checks; handles opening hours, service durations and buffers |
 | [StokKita](https://stokkita-20260929.pages.dev/) | Tracks shop stock and exports a reorder list | Integer-sen money calculations and CSV formula-injection protection |
 | [QuickQuote MY](https://quickquote-my-20260927.pages.dev/) | Calculates a service price range and prepares a customer enquiry | Rule-based quotes with a copyable or downloadable brief |
 
